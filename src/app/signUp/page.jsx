@@ -76,7 +76,7 @@ const {data,error} =await authClient.signUp.email({
       <div className="flex gap-2">
         <Button type="submit">
           <Check/>
-          Submit
+          Signup
         </Button>
         <Button type="reset" variant="secondary">
           Reset
